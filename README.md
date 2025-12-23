@@ -1,14 +1,7 @@
 # Unity week 6: Three-dimensional scene-building and navigation
+->this is PARTC of the weekly assigment ,where the enemy have guns and can shoot the player who have 3 lives ,if the player got shut 3 times he loses and the game begin from the begining.
 
-A project with step-by-step scenes illustrating how to construct a 3D game, including:
 
-* Scene modelling with Terrain Tools and ProGrids;
-* Player control with CharacterController and NavMeshAgent;
-* Enemy AI;
-* Target visualization with gizmmos.
-
-Text explanations are available 
-[here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 08.
 
 ## Cloning
 To clone the project, you may need to install git lfs first:
