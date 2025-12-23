@@ -1,6 +1,9 @@
 # Unity week 6: Three-dimensional scene-building and navigation
 ->this is PARTC of the weekly assigment ,where the enemy have guns and can shoot the player who have 3 lives ,if the player got shut 3 times he loses and the game begin from the begining.
 
+under scripts there is a folder named "enemy" that have two c# scripts that attached to the enemy object that give him the abillity to shoot,to the player i added one script that give the player 3 lives and every time the enemy shoot the player he loses one live.
+
+to play the game:https://yousef-masarwa97.itch.io/hw7-partc
 
 
 ## Cloning
